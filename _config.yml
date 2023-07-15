@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daochang Liu's Homepage"
-description              : "Daochang Liu's Homepage"
+title                    : "Daochang Liu"
+description              : 
 repository               : "Finspire13/Finspire13.github.io"
 google_scholar_stats_use_cdn : true
 

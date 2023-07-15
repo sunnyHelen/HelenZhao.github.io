@@ -19,10 +19,10 @@ redirect_from:
 
 I am a postdoctoral researcher in [Dr Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, University of Sydney.
 I obtained a PhD degree from Peking University supervised by [A/Prof Tingting Jiang](http://www.vie.group/ttj) and [Prof Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
-My research interests lie in computer vision, artificial intelligence, and related applications in the medical domain, specifically including:
-1. Generative AI, Diffusion Models
-2. Surgical AI, Surgical Skill Assessment
-3. Video Understanding and Action Analysis
+My research interests lie in computer vision, artificial intelligence, and related topics in the medical domain, specifically including:
+- Generative AI, Diffusion Models
+- Surgical AI, Surgical Skill Assessment
+- Video Understanding and Action Analysis
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
@@ -230,7 +230,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2019*, Tutor for Computer Vision Algorithms and Techniques, Peking University
 
 
-# 🎖 Honors and Awards
+# 🎖 Awards
 - *2022*, ICDM Best Student Paper Award
 - *2021*, Peking University Tianchuang Scholarship
 - *2020*, Microsoft Research Asia Fellowship Nomination
@@ -239,7 +239,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2017*, Shanghai Outstanding Bachelor Graduate
 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2023*, "What Does ChatGPT mean to AI Research", The University of Sydney
 - *2023*, "Research in AI", The University of Sydney
 - *2022*, "Biomedical Image Analysis", The University of Sydney
@@ -248,11 +248,11 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI
 
 
-# 🌟 Research Grants
+# 🌟 Grants
 
-1. Image Generation for the Colour Vision Impaired (Lead CI). 10000 GPU Hours. The National Computational Infrastructure (NCI) Adapter Scheme, 2023 Q1 and Q2
+- *2023 Q1&Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme 
 
-# ♥️ Academic Services
+# ♥️ Services
 
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Reviewer of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA, TPAMI, TMI, TMM, CVIU, TMLR

@@ -258,7 +258,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # 🌟 Grants
 
-- *2023 Q1&Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme 
+- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme 
 
 <span class='anchor' id='services'></span>
 

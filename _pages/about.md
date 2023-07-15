@@ -27,8 +27,8 @@ Before that, I was a Ph.D. at Peking University supervised by [A/Prof Tingting J
  -->
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023. 
-- *2022.07*: I will serve as the reviewer of AAAI 2024.
+- *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023. 
+- *2023.07*: I will serve as the reviewer of AAAI 2024.
 
 # 📝 Publications 
 
@@ -41,16 +41,16 @@ Before that, I was a Ph.D. at Peking University supervised by [A/Prof Tingting J
 
 *International Conference on Computer Vision (ICCV), 2023*
 
-<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+test <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong> test2
 </div>
 </div>
 
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div> -->
-
+</div>
+ -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
  -->

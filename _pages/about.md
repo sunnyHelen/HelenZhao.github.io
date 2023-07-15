@@ -102,7 +102,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
-[[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) | [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
+[[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
 
 </div>
 </div>
@@ -136,7 +136,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021*
 
-[[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) | [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) | [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf)
+[[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf)
 
 </div>
 </div>
@@ -152,7 +152,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020*
 
-[[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) | [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) | [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
+[[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
 
 </div>
 </div>
@@ -182,7 +182,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
 
-[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) | [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
 
 </div>
 </div>
@@ -198,7 +198,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019*
 
-[[Slides]](http://www.vie.group/media/pdf/7_2_Daochang_2sag3xD.pptx) | [[Poster]](http://www.vie.group/media/pdf/MICCAI_2019_Poster_QpBvnvQ.pdf)
+[[Slides]](http://www.vie.group/media/pdf/7_2_Daochang_2sag3xD.pptx) [[Poster]](http://www.vie.group/media/pdf/MICCAI_2019_Poster_QpBvnvQ.pdf)
 
 </div>
 </div>
@@ -214,7 +214,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018*
 
-[[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) | [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
+[[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
 
 </div>
 </div>

@@ -253,4 +253,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - Reviewer of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA, TPAMI, TMI, TMM, CVIU, TMLR
 
 
+Contact: daochang.liu at sydney.edu.au, finspire13 at gmail.com
+
 Last Update: July 15, 2023

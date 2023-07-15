@@ -27,9 +27,13 @@ My research interests lie in computer vision, artificial intelligence, and relat
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023. 
 - *2023.07*: I will serve as the reviewer of AAAI 2024.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -222,6 +226,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - [Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
 - Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
+<span class='anchor' id='teaching'></span>
 
 # 📖 Teaching
 - *2023*, Lecturer for OCMP5329 Deep Learning, The University of Sydney
@@ -229,6 +234,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2022*, Guest Lecturer for HTIN5005 Applied Healthcare Data Science, The University of Sydney
 - *2019*, Tutor for Computer Vision Algorithms and Techniques, Peking University
 
+<span class='anchor' id='awards'></span>
 
 # 🎖 Awards
 - *2022*, ICDM Best Student Paper Award
@@ -238,6 +244,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2019*, Peking University Academic Innovation Award
 - *2017*, Shanghai Outstanding Bachelor Graduate
 
+<span class='anchor' id='talks'></span>
 
 # 💬 Talks
 - *2023*, "What Does ChatGPT mean to AI Research", The University of Sydney
@@ -247,10 +254,13 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2020*, "Computer-Aided Surgical Skill Assessment", Microsoft Research Asia
 - *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI
 
+<span class='anchor' id='grants'></span>
 
 # 🌟 Grants
 
 - *2023 Q1&Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme 
+
+<span class='anchor' id='services'></span>
 
 # ♥️ Services
 

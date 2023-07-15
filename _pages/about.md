@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in [Dr Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, University of Sydney.
+I am a postdoctoral researcher in [Dr Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by [A/Prof Tingting Jiang](http://www.vie.group/ttj) and [Prof Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
 My research interests lie in computer vision, artificial intelligence, and related topics in the medical domain, specifically including:
 - Generative AI, Diffusion Models
@@ -31,7 +31,7 @@ My research interests lie in computer vision, artificial intelligence, and relat
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023. 
-- *2023.07*: I will serve as the reviewer of AAAI 2024.
+- *2023.07*: I will serve as a reviewer of AAAI 2024.
 
 <span class='anchor' id='publications'></span>
 
@@ -235,7 +235,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023*, "What Does ChatGPT mean to AI Research", The University of Sydney
 - *2023*, "Research in AI", The University of Sydney
 - *2022*, "Biomedical Image Analysis", The University of Sydney
-- *2021*, "Video-Based Surgical Skill Assessment - Improving Surgical Care by Computer Vision", Baidu
+- *2021*, "Video-Based Surgical Skill Assessment - Improving Surgical Care by Computer Vision", Baidu Inc.
 - *2020*, "Computer-Aided Surgical Skill Assessment", Microsoft Research Asia
 - *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI
 
@@ -243,16 +243,17 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # 🌟 Grants
 
-- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme 
+- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
 
 <span class='anchor' id='services'></span>
 
 # ♥️ Services
 
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
-- Reviewer of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA, TPAMI, TMI, TMM, CVIU, TMLR
+- Reviewer of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA
+- Reviewer of TPAMI, TMI, TMM, CVIU, TMLR, Pattern Recognition, IEEE Access
 
 
-Contact: daochang.liu at sydney.edu.au, finspire13 at gmail.com
+**Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
 
-Last Update: July 15, 2023
+**Last Update:** July 15, 2023

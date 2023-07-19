@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher in [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
-I obtained a PhD degree from Peking University supervised by [A/Prof Tingting Jiang](http://www.vie.group/ttj) and [Prof Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
+I obtained a PhD degree from Peking University supervised by [Tingting Jiang](http://www.vie.group/ttj) and [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
 My research interests lie in computer vision, artificial intelligence, and related topics in the medical domain, specifically including:
 - Generative AI, Diffusion Models
 - Surgical AI, Surgical Skill Assessment

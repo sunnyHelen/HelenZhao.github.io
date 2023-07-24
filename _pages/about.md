@@ -46,7 +46,7 @@ My research interests lie in computer vision, artificial intelligence, and relat
 
 *International Conference on Computer Vision (ICCV), 2023*
 
-[[Code]](https://finspire13.github.io/DiffAct-Project-Page/)
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/)
 
 </div>
 </div>

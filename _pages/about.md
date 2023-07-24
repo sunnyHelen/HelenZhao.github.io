@@ -44,10 +44,6 @@ My research interests lie in computer vision, artificial intelligence, and relat
 
 **Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
 
-xxxxxx1 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-xxxxxx2 <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
-
 *International Conference on Computer Vision (ICCV), 2023*
 
 </div>

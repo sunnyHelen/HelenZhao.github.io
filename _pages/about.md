@@ -41,6 +41,33 @@ My research is rooted in understanding human action and skills with computer vis
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rethinking Conditional Diffusion Sampling with Progressive Guidance <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+
+Anh-Dung Dinh, **Daochang Liu**, Chang Xu
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Contrastive Sampling Chains in Diffusion Models <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
+
+Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +88,7 @@ My research is rooted in understanding human action and skills with computer vis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Personalized Image Generation for Color Vision Deficiency Population <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
+[Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
 
 Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 
@@ -214,6 +241,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 </div>
 </div>
 
+- Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*
 - [Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*
 - [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS)
 - [Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
@@ -251,6 +279,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # 🌟 Grants
 
+- *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Owner), $7840 USD, Google Cloud Research Credits Award 
 - *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
 
 <span class='anchor' id='services'></span>
@@ -265,6 +294,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
 
-**Last Update:** July 15, 2023
+**Last Update:** Oct 7, 2023
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

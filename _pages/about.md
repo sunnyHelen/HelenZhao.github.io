@@ -172,7 +172,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
-*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020*
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020*
 
 [[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
 
@@ -218,7 +218,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
-*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019*
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019*
 
 [[Slides]](http://www.vie.group/media/pdf/7_2_Daochang_2sag3xD.pptx) [[Poster]](http://www.vie.group/media/pdf/MICCAI_2019_Poster_QpBvnvQ.pdf)
 
@@ -234,7 +234,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Daochang Liu**, Tingting Jiang
 
-*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018*
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018*
 
 [[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
 

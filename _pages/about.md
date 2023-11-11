@@ -77,7 +77,7 @@ Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 
 *International Conference on Computer Vision (ICCV), 2023*
 
-[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct)
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
 
 
 </div>

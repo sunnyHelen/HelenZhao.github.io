@@ -270,6 +270,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <span class='anchor' id='talks'></span>
 
 # 💬 Talks
+- *2023*, "Human Action and Skill Understanding in Long Videos", Beihang University
 - *2023*, "What Does ChatGPT mean to AI Research", The University of Sydney
 - *2023*, "Research in AI", The University of Sydney
 - *2022*, "Biomedical Image Analysis", The University of Sydney
@@ -281,7 +282,8 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # 🌟 Grants
 
-- *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Owner), $7840 USD, Google Cloud Research Credits Award 
+- *2024 Q1-Q2*, Large Language Models as Training-Free Multimodal Optimizers (Lead CI), 40000 GPU Hours, The National Computational Infrastructure (NCI) AI Flagship Scheme, Australia
+- *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Lead CI), $7840 USD, Google Cloud Research Credits Award 
 - *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
 
 <span class='anchor' id='services'></span>
@@ -296,6 +298,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
 
-**Last Update:** Oct 7, 2023
+**Last Update:** Dec 19, 2023
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

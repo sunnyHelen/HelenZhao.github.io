@@ -128,62 +128,7 @@ My research interests lie in intelligent surgical skill assessment using compute
 - Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
 
-<br>
 
-# 📝 Publications - Human Action Understanding and Computer Vision
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
-
-**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
-
-*International Conference on Computer Vision (ICCV), 2023*
-
-[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang, Yizhou Wang
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
-
-[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
-
-*IEEE International Conference on Data Mining (ICDM), 2022*
-
-**Best Student Paper Award** 
-
-[[Code]](https://github.com/TerryPei/C3P)
-
-</div>
-</div>
-
-- [Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
-
-- [Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
-
-- [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
 
 <br>
@@ -266,6 +211,75 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 </div>
 </div>
+
+
+
+
+
+
+<br>
+
+# 📝 Publications - Human Action Understanding and Computer Vision
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
+
+*International Conference on Computer Vision (ICCV), 2023*
+
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang, Yizhou Wang
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+
+[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
+
+*IEEE International Conference on Data Mining (ICDM), 2022*
+
+**Best Student Paper Award** 
+
+[[Code]](https://github.com/TerryPei/C3P)
+
+</div>
+</div>
+
+- [Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
+
+- [Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
+
+- [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+
+
+
+
+
+
+
 
 
 

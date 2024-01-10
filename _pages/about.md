@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
-I obtained a PhD degree from Peking University supervised by [Tingting Jiang](http://www.vie.group/ttj) and [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
+I am a postdoctoral researcher in A/Prof.[Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
+I obtained a PhD degree from Peking University supervised by A/Prof.[Tingting Jiang](http://www.vie.group/ttj) and Prof.[Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
 
 
 My research interests lie in intelligent surgical skill assessment using computer vision and generative artificial intelligence.
@@ -53,7 +53,7 @@ My research interests lie in intelligent surgical skill assessment using compute
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021*
 
-[[Project]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
+[[Project (Highlight)]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
 
 </div>
 </div>
@@ -197,6 +197,8 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2023*
 
+[[Code]](https://github.com/dungdinhanh/prog-guided-diffusion)
+
 </div>
 </div>
 
@@ -209,6 +211,8 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+[[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
 
 </div>
 </div>
@@ -273,12 +277,12 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 <span class='anchor' id='awards'></span>
 
 # 🎖 Awards
-- *2022*, ICDM Best Student Paper Award
-- *2021*, Peking University Tianchuang Scholarship
-- *2020*, Microsoft Research Asia Fellowship Nomination
-- *2019*, Peking University Principle's Scholarship
-- *2019*, Peking University Academic Innovation Award
-- *2017*, Shanghai Outstanding Bachelor Graduate
+- *2022*, ICDM Best Student Paper Award, 1 out of 885
+- *2021*, Peking University Tianchuang Scholarship, Top 5% PhDs
+- *2020*, Microsoft Research Asia Fellowship Nomination, Top 25 PhDs in Asia-Pacific
+- *2019*, Peking University Principle's Scholarship, Top 5% PhDs
+- *2019*, Peking University Academic Innovation Award, Top 3% PhDs
+- *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates
 
 <span class='anchor' id='talks'></span>
 
@@ -295,9 +299,9 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 # 🌟 Grants
 
-- *2024 Q1-Q2*, Large Language Models as Training-Free Multimodal Optimizers (Lead CI), 40000 GPU Hours, The National Computational Infrastructure (NCI) AI Flagship Scheme, Australia
 - *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Lead CI), $7840 USD, Google Cloud Research Credits Award 
-- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours, The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
+- *2024 Q1-Q2*, Large Language Models as Training-Free Multimodal Optimizers (Lead CI), 40000 GPU Hours (40K AUD Equivalent), The National Computational Infrastructure (NCI) AI Flagship Scheme, Australia
+- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
 
 <span class='anchor' id='services'></span>
 

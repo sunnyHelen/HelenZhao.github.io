@@ -48,7 +48,7 @@ The long-term vision is to bring intelligence into the multimodal data of surger
 
 <br>
 
-# 📝 Publications - Surgical Data Science
+# 📝 Publications - Surgical Video Analysis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

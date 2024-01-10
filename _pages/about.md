@@ -42,6 +42,7 @@ My research interests lie in intelligent surgical skill assessment using compute
  -->
 <span class='anchor' id='publications'></span>
 
+<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
 # 📝 Publications - Surgical Data Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
@@ -126,7 +127,7 @@ My research interests lie in intelligent surgical skill assessment using compute
 - Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
 
-
+<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
 # 📝 Publications - Human Action Understanding and Computer Vision
 
 
@@ -184,7 +185,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-
+<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
 # 📝 Publications - Generative Artificial Intelligence 
 
 

@@ -21,8 +21,14 @@ I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group
 I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
 
 
-My research interests lie in intelligent surgical skill assessment using computer vision and generative artificial intelligence.
+<!-- My research interests lie in intelligent surgical skill assessment using computer vision and generative artificial intelligence.
+ -->
 
+My research interests lie in intelligent analysis of surgeries using generative artificial intelligence and computer vision to enhance patient care and surgical education.
+
+The short-term goal is to demystify the intricacies of surgical procedures, e.g., tool usage and event patterns, using videos from minimally invasive or robotic surgeries, and establish links with surgical skills and clinical outcomes. My previous works have shown promising results; AI-based skill assessment on a clinical in-vivo benchmark of gastrectomy surgeries from Peking University Cancer Hospital demonstrated a remarkable correlation with the expert consensus (0.60 Spearman’s).
+
+The long-term vision is to bring intelligence into the multimodal data of surgeries in an enriched context, including surgical videos, perioperative imaging, robotic kinematics, textual records, and environmental and physiological metrics, to offer comprehensive insights into surgical procedures. By utilizing specialized models, foundational models, and specialized-foundational models of machine learning, my research aims to advance surgical data science from concept to translation in the next generation of surgery.
 
 <!-- My research is rooted in understanding human action and skills with computer vision and generative artificial intelligence, which also involves fundamental problems in generative diffusion models and applications in automatic surgical skill assessment.
  -->

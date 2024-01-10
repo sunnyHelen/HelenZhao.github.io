@@ -42,7 +42,9 @@ My research interests lie in intelligent surgical skill assessment using compute
  -->
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
+<br>
+<br>
+
 # 📝 Publications - Surgical Data Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
@@ -127,7 +129,9 @@ My research interests lie in intelligent surgical skill assessment using compute
 - Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
 
-<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
+<br>
+<br>
+
 # 📝 Publications - Human Action Understanding and Computer Vision
 
 
@@ -184,8 +188,9 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
 
+<br>
+<br>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1"></div></div>
 # 📝 Publications - Generative Artificial Intelligence 
 
 

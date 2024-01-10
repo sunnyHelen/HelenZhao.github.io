@@ -290,9 +290,9 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <span class='anchor' id='teaching'></span>
 
 # 📖 Teaching
-- *2023*, Lecturer for OCMP5329 Deep Learning, The University of Sydney
+- *2023-2024*, Lecturer for OCMP5329 Deep Learning, The University of Sydney
+- *2022-2023*, Guest Lecturer for HTIN5005 Applied Healthcare Data Science, The University of Sydney
 - *2023*, Guest Lecturer for INFO5993 CS Research methods, The University of Sydney
-- *2022*, Guest Lecturer for HTIN5005 Applied Healthcare Data Science, The University of Sydney
 - *2019*, Tutor for Computer Vision Algorithms and Techniques, Peking University
 
 <span class='anchor' id='awards'></span>

@@ -59,7 +59,7 @@ The long-term vision is to bring intelligence into the multimodal data of surger
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021*
 
-[[Project (Highlight)]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
+[[Project]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
 
 </div>
 </div>

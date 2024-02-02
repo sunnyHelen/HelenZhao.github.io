@@ -327,7 +327,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # ♥️ Services
 
-- *2024*, Area Chair of MICCAI 2024
+- *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Program Committee Member of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA

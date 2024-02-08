@@ -321,7 +321,11 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 # 🌟 Grants
 
 - *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Lead CI), $7840 USD, Google Cloud Research Credits Award 
+
 - *2024 Q1-Q2*, Large Language Models as Training-Free Multimodal Optimizers (Lead CI), 40000 GPU Hours (40K AUD Equivalent), The National Computational Infrastructure (NCI) AI Flagship Scheme, Australia
+
+- *2024 Q1-Q2*, Automatically Assessing Surgical Skills in Enriched Context (Lead CI), 12000 GPU Hours (12K AUD Equivalent), Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1, Australia
+
 - *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
 
 <span class='anchor' id='services'></span>

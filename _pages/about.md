@@ -48,7 +48,7 @@ The long-term vision is to bring intelligence into the multimodal data of surger
 
 <br>
 
-# 📝 Publications - Surgical Video Analysis
+# 📝 Publications - AI for Surgery
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -223,7 +223,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 <br>
 
-# 📝 Publications - Human Action Understanding and Computer Vision
+# 📝 Publications - Computer Vision and Human Action Understanding 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>

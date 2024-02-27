@@ -148,6 +148,7 @@ The long-term vision is to bring intelligence into the multimodal data of surger
 [Towards Memorization-Free Diffusion Models](https://openreview.net/pdf?id=UbRy2RRblq) 
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
+ 
 Chen Chen, **Daochang Liu**, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*

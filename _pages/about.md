@@ -140,6 +140,37 @@ The long-term vision is to bring intelligence into the multimodal data of surger
 # 📝 Publications - Generative Artificial Intelligence 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Memorization-Free Diffusion Models](https://openreview.net/pdf?id=UbRy2RRblq) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+Chen Chen, **Daochang Liu**, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -155,7 +186,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
@@ -167,7 +198,7 @@ Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 [[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
@@ -186,7 +217,7 @@ Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
@@ -198,7 +229,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -217,8 +248,10 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 </div>
 
 
+- [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>, Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
 
 
+- [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Conference on Machine Learning (ICML), 2023*, [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
 
 
 <br>

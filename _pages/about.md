@@ -26,9 +26,11 @@ I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Ji
 
 My research delves deeply into computer vision and generative artificial intelligence for human action and skill understanding, also with interdisciplinary applications in surgical data science.
 
-My research about surgical data science lies in intelligent analysis of surgeries to enhance patient care and surgical education.
+My research seeks to answer two principal questions by observing human activities from visual or multi-modal data, i.e., “what” is performed and “how well” it is performed. This is pivotal to human-centric machine intelligence to comprehend, collaborate with, and amplify human capabilities in daily and professional lives. I am especially interested in the idea of interpreting human actions using a generative learning framework. This stems from the notion that human behavior is inherently a generative act, conditioned on driving goals, environmental contexts, and prior experiences. Such an “understanding-by-generating" paradigm enables unsupervised learning of human activities. I also feel excited about delving into human skill assessment by viewing skills as emergent attributes generated from repeated action operations. My goal is to understand skill acquisition through generative learning, by connecting the generative process of actions and the learning curve of skills from novice to expert. 
+
+<!-- My research about surgical data science lies in intelligent analysis of surgeries to enhance patient care and surgical education.
 The short-term goal is to demystify the intricacies of surgical procedures, e.g., tool usage and event patterns, using videos from minimally invasive or robotic surgeries, and establish links with surgical skills and clinical outcomes. My previous works have shown promising results; AI-based skill assessment on clinical gastrectomy surgeries from Peking University Cancer Hospital demonstrated remarkable correlations with the expert consensus.
-The long-term vision is to bring intelligence into the multimodal data of surgeries in an enriched context beyond videos, including perioperative imaging, robotic kinematics, textual records, and environmental and physiological metrics, to offer holistic insights into surgical procedures. By utilizing specialized models, foundational models, and specialized-foundational models of machine learning, my research aims to advance surgical data science from concept to translation in the next generation of surgery.
+The long-term vision is to bring intelligence into the multimodal data of surgeries in an enriched context beyond videos, including perioperative imaging, robotic kinematics, textual records, and environmental and physiological metrics, to offer holistic insights into surgical procedures. By utilizing specialized models, foundational models, and specialized-foundational models of machine learning, my research aims to advance surgical data science from concept to translation in the next generation of surgery. -->
 
 <!-- My research is rooted in understanding human action and skills with computer vision and generative artificial intelligence, which also involves fundamental problems in generative diffusion models and applications in automatic surgical skill assessment.
  -->
@@ -110,91 +112,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-
-<br>
-
-# 📝 Publications - AI for Surgery
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
-
-**Daochang Liu**, Qiyue Li, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021*
-
-[[Project]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion](http://www.vie.group/media/pdf/paper204.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
-
-**Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
-
-*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020*
-
-[[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCARS 2020</div><img src='images/IJCARS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data](http://www.vie.group/media/pdf/IJCARS.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:W7OEmFMy1HYC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
-
-*International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2020*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI19.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field](http://www.vie.group/media/pdf/paper37.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:zYLM7Y9cAGgC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
-
-*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019*
-
-[[Slides]](http://www.vie.group/media/pdf/7_2_Daochang_2sag3xD.pptx) [[Poster]](http://www.vie.group/media/pdf/MICCAI_2019_Poster_QpBvnvQ.pdf)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI18.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification](http://www.vie.group/media/pdf/paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:9yKSN-GCB0IC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang
-
-*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018*
-
-[[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
-
-</div>
-</div>
-
-
-- [Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
-
-- Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
 
 
@@ -321,6 +238,93 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 
 
+
+
+
+<br>
+
+# 📝 Publications - AI for Surgery
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Daochang Liu**, Qiyue Li, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021*
+
+[[Project]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion](http://www.vie.group/media/pdf/paper204.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
+
+**Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
+
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020*
+
+[[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCARS 2020</div><img src='images/IJCARS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data](http://www.vie.group/media/pdf/IJCARS.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
+
+*International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2020*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field](http://www.vie.group/media/pdf/paper37.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:zYLM7Y9cAGgC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
+
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019*
+
+[[Slides]](http://www.vie.group/media/pdf/7_2_Daochang_2sag3xD.pptx) [[Poster]](http://www.vie.group/media/pdf/MICCAI_2019_Poster_QpBvnvQ.pdf)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification](http://www.vie.group/media/pdf/paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang
+
+*Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018*
+
+[[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
+
+</div>
+</div>
+
+
+- [Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
+
+- Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
 
 

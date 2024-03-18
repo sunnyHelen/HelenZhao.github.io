@@ -384,8 +384,8 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
 - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
-- Program Committee Member of ICCV, CVPR, BMVC, NeurIPS, ICML, ICLR, AAAI, IJCAI, KDD, ICDM, MICCAI, DICTA
-- Reviewer of TPAMI, TMI, TMM, CVIU, TMLR, Pattern Recognition, IEEE Access
+- Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
+- Reviewer of TPAMI, TMI, TMM, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
 
 # -
 

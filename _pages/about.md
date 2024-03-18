@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
-I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang, and a Bachelor of Engineering from Tongji University. 
+I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
+My research delves deeply into computer vision and generative artificial intelligence for human action and skill understanding, also with interdisciplinary applications in surgical data science.
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
@@ -27,7 +28,6 @@ I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jia
 <!-- My research interests lie in intelligent surgical skill assessment using computer vision and generative artificial intelligence.
  -->
 
-My research delves deeply into computer vision and generative artificial intelligence for human action and skill understanding, also with interdisciplinary applications in surgical data science.
 
 My research seeks to answer two principal questions by observing human activities from visual or multi-modal data, i.e., “what” is performed and “how well” it is performed. This is pivotal to human-centric machine intelligence to comprehend, collaborate with, and amplify human capabilities in daily and professional lives. I am especially interested in the idea of interpreting human actions using a generative learning framework. This stems from the notion that human behavior is inherently a generative act, conditioned on driving goals, environmental contexts, and prior experiences. Such an “understanding-by-generating" paradigm enables unsupervised learning of human activities. I also feel excited about delving into human skill assessment by viewing skills as emergent attributes generated from repeated action operations. My goal is to understand skill acquisition through generative learning, by connecting the generative process of actions and the learning curve of skills from novice to expert. 
 

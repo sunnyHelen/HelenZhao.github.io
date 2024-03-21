@@ -25,7 +25,7 @@ author:
   # avatar           : "images/photo_large.jpg"
   avatar           : "images/new_photo_2.jpg"
   # bio              : "Generative AI / Surgical AI"
-  # bio              : "Generative Surgical AI"
+  bio              : "Generative Surgical AI"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 

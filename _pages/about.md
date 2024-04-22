@@ -236,6 +236,9 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 </div>
 
 
+- [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
+
+
 - [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>, Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
 
 

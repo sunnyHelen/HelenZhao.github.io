@@ -72,7 +72,7 @@ My research delves deeply into computer vision and generative artificial intelli
 
 Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
 
-*International Conference on Machine Learning (ICML), 2023*
+*International Conference on Machine Learning (ICML), 2024*
 
 </div>
 </div>

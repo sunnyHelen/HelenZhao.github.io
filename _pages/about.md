@@ -49,8 +49,8 @@ My research seeks to answer two principal questions, i.e., “what” is perform
 # 🔥 News
 - *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
 - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
-<!-- - *2024.02*: Two papers accepted to CVPR 2024. 
-- *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
+<!-- *2024.02*: Two papers accepted to CVPR 2024. 
+*2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
 
 <span class='anchor' id='publications'></span>
 

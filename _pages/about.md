@@ -93,19 +93,17 @@ Chen Chen, **Daochang Liu**, Chang Xu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
-<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
- -->
 
 Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -185,6 +183,8 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 </div>
 </div> -->
 
+
+- [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8), Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 - [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
 
@@ -357,9 +357,15 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 # 📖 Teaching
 - *2023-2024*, Lecturer for OCMP5329 Deep Learning, The University of Sydney
 - *2022-2023*, Guest Lecturer for HTIN5005 Applied Healthcare Data Science, The University of Sydney
-- *2023*, Guest Lecturer for INFO5993 CS Research methods, The University of Sydney
+- *2023*, Guest Lecturer for INFO4990/5993 CS Research Methods, The University of Sydney
+- *2023-2024*, Supervisor for COMP5702/5704 IT Research Project, The University of Sydney
+- *2023-2024*, Supervisor for COMP5709/5703 IT Capstone Project, The University of Sydney
+- *2024*, Co-supervisor for INFO2911 IT Special Project, The University of Sydney
+<!-- 
 - *2019*, Tutor for Computer Vision Algorithms and Techniques, Peking University
+8. Tutor, Algorithm and Data Structure (UG), Peking University, 2019
 
+ -->
 <span class='anchor' id='awards'></span>
 
 # 🎖 Awards

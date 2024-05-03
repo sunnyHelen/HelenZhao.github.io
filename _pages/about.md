@@ -49,8 +49,8 @@ My research seeks to answer two principal questions, i.e., “what” is perform
 # 🔥 News
 - *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
 - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
-- *2024.02*: Two papers accepted to CVPR 2024. 
-- *2024.02*: I will serve as an Area Chair for MICCAI 2024. 
+<!-- - *2024.02*: Two papers accepted to CVPR 2024. 
+- *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
 
 <span class='anchor' id='publications'></span>
 
@@ -189,12 +189,9 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 - [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
 
-
 <!-- - [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>, Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/BestJunYu/Contrastive-Sampling) -->
 
-
 <!-- - [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Conference on Machine Learning (ICML), 2023*, [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion) -->
-
 
 - [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>, Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu. *International Conference on Computer Vision (ICCV), 2023*, [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
 
@@ -362,11 +359,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023-2024*, Supervisor for COMP5702/5704 IT Research Project, The University of Sydney
 - *2023-2024*, Supervisor for COMP5709/5703 IT Capstone Project, The University of Sydney
 - *2024*, Co-supervisor for INFO2911 IT Special Project, The University of Sydney
-<!-- 
-- *2019*, Tutor for Computer Vision Algorithms and Techniques, Peking University
-8. Tutor, Algorithm and Data Structure (UG), Peking University, 2019
 
- -->
 <span class='anchor' id='awards'></span>
 
 # 🎖 Awards
@@ -416,6 +409,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
 
-**Last Update:** Mar 06, 2024
+**Last Update:** May 03, 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

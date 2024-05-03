@@ -46,15 +46,158 @@ My research seeks to answer two principal questions by observing human activitie
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.02*: Two papers are accepted to CVPR 2024. 
+- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
+- *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
+- *2024.02*: Two papers accepted to CVPR 2024. 
 - *2024.02*: I will serve as an Area Chair for MICCAI 2024. 
 
- 
 <span class='anchor' id='publications'></span>
 
 
 
 
+
+<br>
+
+# 📝 Publications - Generative Artificial Intelligence 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2023*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Memorization-Free Diffusion Models](https://openreview.net/pdf?id=UbRy2RRblq) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Chen Chen, **Daochang Liu**, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Conditional Diffusion Sampling with Progressive Guidance](https://neurips.cc/virtual/2023/poster/70851) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+
+Anh-Dung Dinh, **Daochang Liu**, Chang Xu
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+[[Code]](https://github.com/dungdinhanh/prog-guided-diffusion)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
+
+Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+[[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
+
+</div>
+</div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
+
+Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
+
+*International Conference on Computer Vision (ICCV), 2023*
+
+[[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
+
+</div>
+</div> -->
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
+
+Anh-Dung Dinh, **Daochang Liu**, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2023*
+
+[[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
+
+</div>
+</div>
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>
+
+Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
+
+[[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
+
+</div>
+</div> -->
+
+
+- [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
+
+
+<!-- - [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>, Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/BestJunYu/Contrastive-Sampling) -->
+
+
+<!-- - [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Conference on Machine Learning (ICML), 2023*, [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion) -->
+
+
+- [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>, Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu. *International Conference on Computer Vision (ICCV), 2023*, [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
+
+- [Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>, Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023* [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
 
 
 
@@ -120,136 +263,9 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-
-
 <br>
 
-# 📝 Publications - Generative Artificial Intelligence 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Memorization-Free Diffusion Models](https://openreview.net/pdf?id=UbRy2RRblq) 
-<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
- -->
-
-Chen Chen, **Daochang Liu**, Chang Xu
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
-<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
- -->
-
-Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Rethinking Conditional Diffusion Sampling with Progressive Guidance](https://neurips.cc/virtual/2023/poster/70851) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
-
-Anh-Dung Dinh, **Daochang Liu**, Chang Xu
-
-*Conference on Neural Information Processing Systems (NeurIPS), 2023*
-
-[[Code]](https://github.com/dungdinhanh/prog-guided-diffusion)
-
-</div>
-</div>
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
-
-Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
-
-*Conference on Neural Information Processing Systems (NeurIPS), 2023*
-
-[[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
-
-</div>
-</div> -->
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
-
-Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
-
-*International Conference on Computer Vision (ICCV), 2023*
-
-[[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
-
-</div>
-</div>
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
-
-Anh-Dung Dinh, **Daochang Liu**, Chang Xu
-
-*International Conference on Machine Learning (ICML), 2023*
-
-[[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
-
-</div>
-</div> -->
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>
-
-Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
-
-[[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
-
-</div>
-</div>
-
-
-- [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
-
-
-- [Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>, Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
-
-
-- [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Conference on Machine Learning (ICML), 2023*, [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
-
-
-
-
-<br>
-
-# 📝 Publications - AI for Surgery
+# 📝 Publications - AI for Healthcare and Surgery
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -354,7 +370,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 - *2019*, Peking University Academic Innovation Award, Top 3% PhDs
 - *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates
 
-<span class='anchor' id='talks'></span>
+<!-- <span class='anchor' id='talks'></span>
 
 # 💬 Talks
 - *2023*, "Human Action and Skill Understanding in Long Videos", Beihang University
@@ -363,7 +379,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 - *2022*, "Biomedical Image Analysis", The University of Sydney
 - *2021*, "Video-Based Surgical Skill Assessment - Improving Surgical Care by Computer Vision", Baidu Inc.
 - *2020*, "Computer-Aided Surgical Skill Assessment", Microsoft Research Asia
-- *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI
+- *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI -->
 
 <span class='anchor' id='grants'></span>
 
@@ -381,6 +397,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 # ♥️ Services
 
+- *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
 - *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
 - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop

@@ -47,7 +47,7 @@ My research delves deeply into computer vision and generative artificial intelli
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
+- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024. [Call for Paper!](http://esgmfm.site/)
 - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
 <!-- *2024.02*: Two papers accepted to CVPR 2024. 
 *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
@@ -157,7 +157,7 @@ Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
+[PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://proceedings.mlr.press/v202/dinh23a.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 

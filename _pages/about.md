@@ -90,6 +90,8 @@ Chen Chen, **Daochang Liu**, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
+[[Project]](https://chenchen-usyd.github.io/AMG-Project-Page/) [[Code]](https://github.com/chenchen-usyd/AMG) [[Video]](https://www.youtube.com/watch?v=aS7xfWQTuJk)
+
 </div>
 </div>
 

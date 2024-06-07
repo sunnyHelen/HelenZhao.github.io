@@ -60,7 +60,7 @@ My research delves deeply into computer vision and generative artificial intelli
 
 <br>
 
-# 📝 Publications - Generative Artificial Intelligence 
+# 📝 Generative Artificial Intelligence 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
@@ -203,7 +203,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 <br>
 
-# 📝 Publications - Computer Vision and Human Action Understanding 
+# 📝 Computer Vision and Human Action Understanding 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
@@ -265,7 +265,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <br>
 
-# 📝 Publications - AI for Healthcare and Surgery
+# 📝 AI for Healthcare and Surgery
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -82,7 +82,7 @@ Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Memorization-Free Diffusion Models](https://openreview.net/pdf?id=UbRy2RRblq) 
+[Towards Memorization-Free Diffusion Models](https://arxiv.org/abs/2404.00922) 
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 
@@ -119,7 +119,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2023*
 
-[[Code]](https://github.com/dungdinhanh/prog-guided-diffusion)
+<!-- [[Code]](https://github.com/dungdinhanh/prog-guided-diffusion) -->
 
 </div>
 </div>
@@ -405,7 +405,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
-- Reviewer of TPAMI, TMI, TMM, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
+- Reviewer of TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
 
 # -
 

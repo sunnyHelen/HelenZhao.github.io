@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
-My research delves deeply into computer vision and generative artificial intelligence for human action and skill understanding, also with interdisciplinary applications in healthcare data science.
+My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->

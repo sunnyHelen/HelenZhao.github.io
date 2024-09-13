@@ -47,7 +47,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024. [Call for Paper!](http://esgmfm.site/)
+- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
 - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
 <!-- *2024.02*: Two papers accepted to CVPR 2024. 
 *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->

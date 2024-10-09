@@ -351,7 +351,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-
+<!-- 
 <span class='anchor' id='teaching'></span>
 
 # 📖 Teaching
@@ -361,8 +361,9 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023-2024*, Supervisor for COMP5702/5704 IT Research Project, The University of Sydney
 - *2023-2024*, Supervisor for COMP5709/5703 IT Capstone Project, The University of Sydney
 - *2024*, Co-supervisor for INFO2911 IT Special Project, The University of Sydney
+ -->
 
-<span class='anchor' id='awards'></span>
+<!-- <span class='anchor' id='awards'></span>
 
 # 🎖 Awards
 - *2022*, ICDM Best Student Paper Award, 1 out of 885
@@ -370,7 +371,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2020*, Microsoft Research Asia Fellowship Nomination, Top 25 PhDs in Asia-Pacific
 - *2019*, Peking University Principle's Scholarship, Top 5% PhDs
 - *2019*, Peking University Academic Innovation Award, Top 3% PhDs
-- *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates
+- *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates -->
 
 <!-- <span class='anchor' id='talks'></span>
 
@@ -396,7 +397,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
  -->
 
-- *2024 - 2025*, Lead CI, $15000 AUD, Digital Sciences Initiative Ignite Award, USYD
+<!-- - *2024 - 2025*, Lead CI, $15000 AUD, Digital Sciences Initiative Ignite Award, USYD
 
 - *2023 - 2024*, Lead CI, $7840 USD, Google Cloud Research Credits Award 
 
@@ -405,6 +406,17 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2024 Q1-Q2*, Lead CI, 12000 GPU Hours (12K AUD Equivalent), Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1
 
 - *2023 Q1-Q2*, Lead CI, 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme 
+ -->
+
+- *2024 - 2025*, Digital Sciences Initiative Ignite Award, USYD
+
+- *2023 - 2024*, Google Cloud Research Credits Award 
+
+- *2024 Q1-Q2*, The National Computational Infrastructure (NCI) AI Flagship Scheme
+
+- *2024 Q1-Q2*, Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1
+
+- *2023 Q1-Q2*, The National Computational Infrastructure (NCI) Adapter Scheme 
 
 
 <span class='anchor' id='services'></span>

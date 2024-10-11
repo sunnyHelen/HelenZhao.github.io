@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daochang Liu"
+title                    : "Haimei Helen Zhao"
 description              : ""
 repository               : "Finspire13/Finspire13.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daochang Liu"
+  name             : "Haimei Helen Zhao"
   # avatar           : "images/photo_large.jpg"
   avatar           : "images/new_photo_2.jpg"
   # bio              : "Generative AI / Surgical AI"
@@ -29,8 +29,8 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ElujT6oAAAAJ"
-  email            : "daochang.liu@sydney.edu.au"
+  googlescholar    : "https://scholar.google.com/citations?user=5EtQNJ4AAAAJ"
+  email            : "h.zhao@sydney.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-9279-7912" # e.g., "https://orcid.org/xxxx"
+  orcid            : #"https://orcid.org/0000-0002-9279-7912" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering The University of Sydney.
-I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ). I obtained my Master's degree from Tsinghua University.
+I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) 2021-2024. I obtained my Master's degree from Tsinghua University, 2017-2020.
+
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 

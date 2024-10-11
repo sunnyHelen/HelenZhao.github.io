@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
-I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
-My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
+I am a postdoctoral researcher in A/Prof [Arnold Lining Ju]([https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html])'s group at the School of Biomedical Engineering, Faculty of Engineering The University of Sydney.
+I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof Dacheng Tao. I obtained my Master degree from Tsinghua University.
+My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
@@ -47,10 +47,10 @@ My research interests lie in generative artificial intelligence, computer vision
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
-- *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
-<!-- *2024.02*: Two papers accepted to CVPR 2024. 
-*2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
+- *2024.09*: One paper accepted by NeurIPs 2024.
+- *2024.07*: One paper accepted by ECCV 2024.
+- *2024.02*: One paper accepted by CVPR 2024. 
+<!-- *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
 
 <span class='anchor' id='publications'></span>
 

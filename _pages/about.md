@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering The University of Sydney.
-I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof Dacheng Tao [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ). I obtained my Master's degree from Tsinghua University.
+I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ). I obtained my Master's degree from Tsinghua University.
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
@@ -423,18 +423,15 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # ♥️ Services
 
-- *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
-- *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
-- *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
-- *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop
-- *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
-- Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
-- Reviewer of TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
+- *2024*, Diversity, Equity, and Inclusion (DEI) Committee, 2022-2023, Ju Lab, School of Biomedical Engineering, USYD
+- *2022-2023*, Higher Degree Research (HDR) Student Committee, 2022-2023, School of Computer Science, USYD
+- Program Committee Member of CVPR, ECCV, ACM MM, ICPR
+- Reviewer of IEEE Transactions on Multimedia (TMM), IEEE Signal Processing Letters
 
 # -
 
-**Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
+**Contact:** h.zhao at sydney.edu.au
 
-**Last Update:** Sep 03, 2024
+**Last Update:** Oct 11, 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

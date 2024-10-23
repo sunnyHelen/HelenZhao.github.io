@@ -61,19 +61,82 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 <br>
 
-# 📝 Generative Artificial Intelligence 
+# 📝 Robust and Efficient AI for Robotics and Autonomous Driving 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather]([https://arxiv.org/abs/2303.17959](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_UniMix_Towards_Domain_Adaptive_and_Generalizable_LiDAR_Semantic_Segmentation_in_CVPR_2024_paper.html)) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+**Haimei Zhao**, Jing Zhang, Zhuo Chen, Shanshan Zhao, Dacheng Tao
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang, Yizhou Wang
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+
+[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
+
+*IEEE International Conference on Data Mining (ICDM), 2022*
+
+**Best Student Paper Award** 
+
+[[Code]](https://github.com/TerryPei/C3P)
+
+</div>
+</div>
+
+- [Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
+
+- [Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
+
+- [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+
+
+
+
+
+
+<br>
+
+
+# 📝 AI for Biomedical Science, Digital Health 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
+[Strategic reuse of rapid antigen tests for coagulation status assessment: an integrated machine learning approach]([https://openreview.net/pdf?id=PpBs2iL0jv](https://link.springer.com/article/10.1007/s44258-024-00025-3)) 
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 
-Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
+Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, Zihao Wang, Wenlong Cheng, Pierre Qian, Lining Arnold Ju
 
-*International Conference on Machine Learning (ICML), 2024*
+*Med-X, 2024*
 
 </div>
 </div>
@@ -204,67 +267,6 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 <br>
 
-# 📝 Computer Vision and Human Action Understanding 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
-
-**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
-
-*International Conference on Computer Vision (ICCV), 2023*
-
-[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang, Yizhou Wang
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
-
-[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
-
-*IEEE International Conference on Data Mining (ICDM), 2022*
-
-**Best Student Paper Award** 
-
-[[Code]](https://github.com/TerryPei/C3P)
-
-</div>
-</div>
-
-- [Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
-
-- [Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
-
-- [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
-
-
-
-
-
-
-<br>
 
 # 📝 AI for Healthcare and Surgery
 

@@ -93,10 +93,10 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation]((https://link.springer.com/article/10.1007/s11633-023-1474-0) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+[On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation](https://link.springer.com/article/10.1007/s11633-023-1474-0) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 **Haimei Zhao**, Jing Zhang, Zhuo Chen, Bo Yuan, Dacheng Tao
 
@@ -114,7 +114,33 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 **Haimei Zhao**, Jing Zhang, Sen Zhang, Dacheng Tao
 
-*European Conference on Computer Vision, 2022*
+*European Conference on Computer Vision (ECCV), 2022*
+
+[[Code]](https://github.com/TerryPei/C3P)
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Is Your HD Map Constructor Reliable under Sensor Corruptions?](https://arxiv.org/abs/2406.12214) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Qiang Wang, Weiming Li, Lingdong Kong, Jing Zhang
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+[[Code]](https://github.com/TerryPei/C3P)
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In Park, ByungIn Yoo, **Haimei Zhao**#, Jing Zhang#
+
+*European Conference on Computer Vision (ECCV), 2024*
 
 [[Code]](https://github.com/TerryPei/C3P)
 
@@ -141,7 +167,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Strategic reuse of rapid antigen tests for coagulation status assessment: an integrated machine learning approach]([https://openreview.net/pdf?id=PpBs2iL0jv](https://link.springer.com/article/10.1007/s44258-024-00025-3)) 
+[Strategic reuse of rapid antigen tests for coagulation status assessment: an integrated machine learning approach]([https://openreview.net/pdf?id=PpBs2iL0jv](https://link.springer.com/article/10.1007/s44258-024-00025-3)
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 

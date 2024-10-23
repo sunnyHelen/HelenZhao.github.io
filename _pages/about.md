@@ -64,46 +64,57 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 # 📝 Robust and Efficient AI for Robotics and Autonomous Driving 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_mainfigure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather]([https://arxiv.org/abs/2303.17959](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_UniMix_Towards_Domain_Adaptive_and_Generalizable_LiDAR_Semantic_Segmentation_in_CVPR_2024_paper.html)) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+[UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_UniMix_Towards_Domain_Adaptive_and_Generalizable_LiDAR_Semantic_Segmentation_in_CVPR_2024_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
 
 **Haimei Zhao**, Jing Zhang, Zhuo Chen, Shanshan Zhao, Dacheng Tao
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
-[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
 
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
+[Simdistill: Simulated multi-modal distillation for bev 3d object detection](https://ojs.aaai.org/index.php/AAAI/article/view/28577) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
 
-**Daochang Liu**, Tingting Jiang, Yizhou Wang
+**Haimei Zhao**, Qiming Zhang, Shanshan Zhao, Zhe Chen, Jing Zhang, Dacheng Tao
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+*Proceedings of the AAAI Conference on Artificial Intelligence, 2024*
 
 [[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+[On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation]((https://link.springer.com/article/10.1007/s11633-023-1474-0) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
+**Haimei Zhao**, Jing Zhang, Zhuo Chen, Bo Yuan, Dacheng Tao
 
-*IEEE International Conference on Data Mining (ICDM), 2022*
+*Machine Intelligence Research, 2024*
 
-**Best Student Paper Award** 
+[[Code]](https://github.com/TerryPei/C3P)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Jperceiver: Joint perception network for depth, pose and layout estimation in driving scenes](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_41) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+**Haimei Zhao**, Jing Zhang, Sen Zhang, Dacheng Tao
+
+*European Conference on Computer Vision, 2022*
 
 [[Code]](https://github.com/TerryPei/C3P)
 

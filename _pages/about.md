@@ -88,7 +88,8 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
-[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+<--[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+-->
 
 </div>
 </div>
@@ -102,7 +103,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 *Machine Intelligence Research, 2024*
 
-[[Code]](https://github.com/TerryPei/C3P)
+
 
 </div>
 </div>
@@ -116,20 +117,21 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 *European Conference on Computer Vision (ECCV), 2022*
 
-[[Code]](https://github.com/TerryPei/C3P)
+
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Is Your HD Map Constructor Reliable under Sensor Corruptions?](https://arxiv.org/abs/2406.12214) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Qiang Wang, Weiming Li, Lingdong Kong, Jing Zhang
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
-[[Code]](https://github.com/TerryPei/C3P)
+
 
 </div>
 </div>
@@ -137,6 +139,7 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Q
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/figure2_ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In Park, ByungIn Yoo, **Haimei Zhao**#, Jing Zhang#
@@ -204,7 +207,7 @@ Zhuo Chen, **Haimei Zhao^***, Chaoyue Wang, Bo Yuan, Xiu Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/gih1_MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/fig1_MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [D^2Animator: Dual Distillation of StyleGAN For High-Resolution Face Animation](https://dl.acm.org/doi/pdf/10.1145/3503161.3548002) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
@@ -213,7 +216,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 *Proceedings of the 30th ACM International Conference on Multimedia (ACM MM), 2022*
 
-[[Project]](https://finspire13.github.io/CVPR21-Project-Page/) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [[Slides]](http://www.vie.group/media/pdf/CVPR2021_SLIDES.pptx) [[Poster]](http://www.vie.group/media/pdf/CVPR2021_POSTER.pdf) [[Video]](https://www.youtube.com/watch?v=xRh9gE0kyjc)
+
 
 </div>
 </div>
@@ -226,7 +229,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 
 - [The robodrive challenge: Drive anytime anywhere in any condition](https://arxiv.org/abs/2405.08816)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, The Third Place. *IEEE Conference on Robotics and Automation (ICRA 2024)*.
-- Method and system for determining and indication of blood coagulability, Tingting Jiang, Ziyu Li, **Daochang Liu**, Allan Sun, Arnold Lining Ju, Arian Nasser, **Haimei Zhao**. *Australia Filed Patent Appl. No: 2024902177, TRL: 5*
+- Method and system for determining and indication of blood coagulability, Allan Sun, Arnold Lining Ju, Arian Nasser, **Haimei Zhao**. *Australia Filed Patent Appl. No: 2024902177, TRL: 5*
 
 
 
@@ -253,9 +256,9 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 - *2021 - 2024*, Faculty of Engineering Research Scholarship, The University of Sydney, $3,7000 Per Year
 
-- *2018*, National Scholarship, Tsinghua University, $6,000
+- *2018*, National Scholarship, Tsinghua University, $6,000, Top 1 Postgraduate.
 
-- *2016*, Science and Technology Contribution Award, Changchun University of Science and Technology Scholarship Fund, $1,000
+- *2016*, Science and Technology Contribution Award, Changchun University of Science and Technology Scholarship Fund, $1,000, Top 1 Undergraduate.
 
 
 <!-- - *2024 - 2025*, Lead CI, $15000 AUD, Digital Sciences Initiative Ignite Award, USYD

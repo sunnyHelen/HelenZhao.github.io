@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering The University of Sydney.
+I am a postdoctoral research fellow in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
 I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) 2021-2024. I obtained my Master's degree from Tsinghua University, 2017-2020.
 
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
@@ -44,6 +44,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
+
 
 <span class='anchor' id='news'></span>
 
@@ -147,19 +148,18 @@ Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In
 *European Conference on Computer Vision (ECCV), 2024*
 
 
-[[Code]](https://github.com/TerryPei/C3P)
 
 </div>
 </div>
 
 
-- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao**, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
+- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao**, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
-- [Deep corner](https://link.springer.com/article/10.1007/s11263-023-01837-3)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Shanshan Zhao, Mingming Gong,**Haimei Zhao**, Jing Zhang, Dacheng Tao. *International Journal of Computer Vision (IJCV), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
+- [Deep corner](https://link.springer.com/article/10.1007/s11263-023-01837-3)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Shanshan Zhao, Mingming Gong,**Haimei Zhao**, Jing Zhang, Dacheng Tao. *International Journal of Computer Vision (IJCV), 2023*
 
-- [SPH-Net: Hyperspectral Image Super-Resolution via Smoothed Particle Hydrodynamics Modeling](https://ieeexplore.ieee.org/abstract/document/10302422)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *IEEE Transactions on Cybernetics (TCYB), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+- [SPH-Net: Hyperspectral Image Super-Resolution via Smoothed Particle Hydrodynamics Modeling](https://ieeexplore.ieee.org/abstract/document/10302422)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *IEEE Transactions on Cybernetics (TCYB), 2023*
 
-- [Collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos](https://dl.acm.org/doi/abs/10.5555/3491440.3491508)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *International Conference on International Joint Conferences on Artificial Intelligence (IJCAI), 2020*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+- [Collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos](https://dl.acm.org/doi/abs/10.5555/3491440.3491508)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *International Conference on International Joint Conferences on Artificial Intelligence (IJCAI), 2020*
 
 
 
@@ -197,11 +197,10 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, Zih
 
 [Dual Mapping of 2D StyleGAN for 3D-Aware Image Generation and Manipulation](https://ojs.aaai.org/index.php/AAAI/article/view/30428) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
 
-Zhuo Chen, **Haimei Zhao^***, Chaoyue Wang, Bo Yuan, Xiu Li
+Zhuo Chen, **Haimei Zhao***, Chaoyue Wang, Bo Yuan, Xiu Li
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
-[[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
 
 </div>
 </div>
@@ -225,7 +224,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 
 
-
+# 🌟 Competition and Patent
 
 
 - [The robodrive challenge: Drive anytime anywhere in any condition](https://arxiv.org/abs/2405.08816)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, The Third Place. *IEEE Conference on Robotics and Automation (ICRA 2024)*.
@@ -285,7 +284,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 <span class='anchor' id='services'></span>
 
-# ♥️ Services
+# ♥️ Services and Engagement
 
 - *2024*, Diversity, Equity, and Inclusion (DEI) Committee, 2022-2023, Ju Lab, School of Biomedical Engineering, USYD
 - *2022-2023*, Higher Degree Research (HDR) Student Committee, 2022-2023, School of Computer Science, USYD

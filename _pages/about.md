@@ -128,7 +128,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 [Is Your HD Map Constructor Reliable under Sensor Corruptions?](https://arxiv.org/abs/2406.12214) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Qiang Wang, Weiming Li, Lingdong Kong, Jing Zhang
+Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, ... , Lingdong Kong, Jing Zhang
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
@@ -143,7 +143,7 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Q
   
 [MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In Park, ByungIn Yoo, **Haimei Zhao**#, Jing Zhang#
+Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
 
 *European Conference on Computer Vision (ECCV), 2024*
 
@@ -178,7 +178,7 @@ Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 
-Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, Zihao Wang, Wenlong Cheng, Pierre Qian, Lining Arnold Ju
+Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, ... , Lining Arnold Ju
 
 *Med-X, 2024*
 

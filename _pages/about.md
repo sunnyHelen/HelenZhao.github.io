@@ -123,7 +123,6 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Is Your HD Map Constructor Reliable under Sensor Corruptions?](https://arxiv.org/abs/2406.12214) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Qiang Wang, Weiming Li, Lingdong Kong, Jing Zhang
@@ -135,19 +134,21 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Q
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In Park, ByungIn Yoo, **Haimei Zhao**#, Jing Zhang#
 
 *European Conference on Computer Vision (ECCV), 2024*
 
+
 [[Code]](https://github.com/TerryPei/C3P)
 
 </div>
 </div>
+
 
 - [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao**, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
 

@@ -93,7 +93,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/frameF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation](https://link.springer.com/article/10.1007/s11633-023-1474-0) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
@@ -107,7 +107,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/network2_ECCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Jperceiver: Joint perception network for depth, pose and layout estimation in driving scenes](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_41) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
@@ -121,7 +121,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Is Your HD Map Constructor Reliable under Sensor Corruptions?](https://arxiv.org/abs/2406.12214) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
@@ -135,7 +135,7 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, Hui Zhang, Yi Zhou, Q
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/figure2_ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
@@ -156,6 +156,7 @@ Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In
 
 - [SPH-Net: Hyperspectral Image Super-Resolution via Smoothed Particle Hydrodynamics Modeling](https://ieeexplore.ieee.org/abstract/document/10302422)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *IEEE Transactions on Cybernetics (TCYB), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
+- [Collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos](https://dl.acm.org/doi/abs/10.5555/3491440.3491508)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *International Conference on International Joint Conferences on Artificial Intelligence (IJCAI), 2020*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
 
 
@@ -167,7 +168,7 @@ Xiaoshuai Hao, Ruikai Li, Hui Zhang, Dingzhe Li, Rong Yin, Sangil Jung, Seung-In
 # 📝 AI for Biomedical Science, Digital Health 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strategic reuse of rapid antigen tests for coagulation status assessment: an integrated machine learning approach](https://link.springer.com/article/10.1007/s44258-024-00025-3)
@@ -188,7 +189,7 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, Zih
 # 📝 Generative AI
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/framework-first-3dgan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual Mapping of 2D StyleGAN for 3D-Aware Image Generation and Manipulation](https://ojs.aaai.org/index.php/AAAI/article/view/30428) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
@@ -203,7 +204,7 @@ Zhuo Chen, **Haimei Zhao^***, Chaoyue Wang, Bo Yuan, Xiu Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/gih1_MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [D^2Animator: Dual Distillation of StyleGAN For High-Resolution Face Animation](https://dl.acm.org/doi/pdf/10.1145/3503161.3548002) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
@@ -224,58 +225,38 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 
 
-- [Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
-
-- Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
-
+- [The robodrive challenge: Drive anytime anywhere in any condition](https://arxiv.org/abs/2405.08816)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, The Third Place. *IEEE Conference on Robotics and Automation (ICRA 2024)*.
+- Method and system for determining and indication of blood coagulability, Tingting Jiang, Ziyu Li, **Daochang Liu**, Allan Sun, Arnold Lining Ju, Arian Nasser, **Haimei Zhao**. *Australia Filed Patent Appl. No: 2024902177, TRL: 5*
 
 
 
-<!-- 
-<span class='anchor' id='teaching'></span>
 
-# 📖 Teaching
-- *2023-2024*, Lecturer for OCMP5329 Deep Learning, The University of Sydney
-- *2022-2023*, Guest Lecturer for HTIN5005 Applied Healthcare Data Science, The University of Sydney
-- *2023*, Guest Lecturer for INFO4990/5993 CS Research Methods, The University of Sydney
-- *2023-2024*, Supervisor for COMP5702/5704 IT Research Project, The University of Sydney
-- *2023-2024*, Supervisor for COMP5709/5703 IT Capstone Project, The University of Sydney
-- *2024*, Co-supervisor for INFO2911 IT Special Project, The University of Sydney
- -->
 
 <!-- <span class='anchor' id='awards'></span>
 
 # 🎖 Awards
-- *2022*, ICDM Best Student Paper Award, 1 out of 885
+- *2024*, ICDM Best Student Paper Award, 1 out of 885
 - *2021*, Peking University Tianchuang Scholarship, Top 5% PhDs
 - *2020*, Microsoft Research Asia Fellowship Nomination, Top 25 PhDs in Asia-Pacific
 - *2019*, Peking University Principle's Scholarship, Top 5% PhDs
 - *2019*, Peking University Academic Innovation Award, Top 3% PhDs
 - *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates -->
 
-<!-- <span class='anchor' id='talks'></span>
 
-# 💬 Talks
-- *2023*, "Human Action and Skill Understanding in Long Videos", Beihang University
-- *2023*, "What Does ChatGPT mean to AI Research", The University of Sydney
-- *2023*, "Research in AI", The University of Sydney
-- *2022*, "Biomedical Image Analysis", The University of Sydney
-- *2021*, "Video-Based Surgical Skill Assessment - Improving Surgical Care by Computer Vision", Baidu Inc.
-- *2020*, "Computer-Aided Surgical Skill Assessment", Microsoft Research Asia
-- *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI -->
+# 🌟 Awards and Grants
 
-<span class='anchor' id='grants'></span>
+- *2024 - 2025*, The University of Sydney – PERIscope Commercialisation Award (AI Lead), $615,000.
 
-# 🌟 Grants
+- *2024*, The University of Sydney Nano Institute – NanoPitch Health People’s Choice Award(AI Lead), $5,000.
 
-<!-- - *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Lead CI), $7840 USD, Google Cloud Research Credits Award 
+- *2024*, Faculty of Engineering Career Advancement Award, The University of Sydney, $20,000.
 
-- *2024 Q1-Q2*, Large Language Models as Training-Free Multimodal Optimizers (Lead CI), 40000 GPU Hours (40K AUD Equivalent), The National Computational Infrastructure (NCI) AI Flagship Scheme, Australia
+- *2021 - 2024*, Faculty of Engineering Research Scholarship, The University of Sydney, $3,7000 Per Year
 
-- *2024 Q1-Q2*, Automatically Assessing Surgical Skills in Enriched Context (Lead CI), 12000 GPU Hours (12K AUD Equivalent), Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1, Australia
+- *2018*, National Scholarship, Tsinghua University, $6,000
 
-- *2023 Q1-Q2*, Image Generation for the Colour Vision Impaired (Lead CI), 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme, Australia 
- -->
+- *2016*, Science and Technology Contribution Award, Changchun University of Science and Technology Scholarship Fund, $1,000
+
 
 <!-- - *2024 - 2025*, Lead CI, $15000 AUD, Digital Sciences Initiative Ignite Award, USYD
 
@@ -286,7 +267,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 - *2024 Q1-Q2*, Lead CI, 12000 GPU Hours (12K AUD Equivalent), Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1
 
 - *2023 Q1-Q2*, Lead CI, 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme 
- -->
+ 
 
 - *2024 - 2025*, Digital Sciences Initiative Ignite Award, USYD
 
@@ -297,7 +278,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 - *2024 Q1-Q2*, Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1
 
 - *2023 Q1-Q2*, The National Computational Infrastructure (NCI) Adapter Scheme 
-
+-->
 
 <span class='anchor' id='services'></span>
 
@@ -312,6 +293,6 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 **Contact:** h.zhao at sydney.edu.au
 
-**Last Update:** Oct 11, 2024
+**Last Update:** Oct 28, 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

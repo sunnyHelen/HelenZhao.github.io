@@ -171,7 +171,7 @@ Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
 # 📝 AI for Biomedical Science, Digital Health 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Med-X 2024</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strategic reuse of rapid antigen tests for coagulation status assessment: an integrated machine learning approach](https://link.springer.com/article/10.1007/s44258-024-00025-3)
@@ -249,7 +249,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 - *2024 - 2025*, The University of Sydney – PERIscope Commercialisation Award (AI Lead), $615,000.
 
-- *2024*, The University of Sydney Nano Institute – NanoPitch Health People’s Choice Award(AI Lead), $5,000.
+- *2024*, The University of Sydney Nano Institute – NanoPitch Health People’s Choice Award (AI Lead), $5,000.
 
 - *2024*, Faculty of Engineering Career Advancement Award, The University of Sydney, $20,000.
 

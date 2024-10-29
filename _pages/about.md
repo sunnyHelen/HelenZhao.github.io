@@ -289,8 +289,8 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 # ♥️ Services and Engagement
 
-- *2024*, Diversity, Equity, and Inclusion (DEI) Committee, 2022-2023, Ju Lab, School of Biomedical Engineering, USYD
-- *2022-2023*, Higher Degree Research (HDR) Student Committee, 2022-2023, School of Computer Science, USYD
+- *2024*, Diversity, Equity, and Inclusion (DEI) Committee, Ju Lab, School of Biomedical Engineering, USYD
+- *2022-2023*, Higher Degree Research (HDR) Student Committee, School of Computer Science, USYD
 - Program Committee Member of CVPR, ECCV, ACM MM, ICPR
 - Reviewer of IEEE Transactions on Multimedia (TMM), IEEE Signal Processing Letters
 

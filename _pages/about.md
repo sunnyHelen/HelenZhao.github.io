@@ -162,7 +162,7 @@ Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
 
 - [SPH-Net: Hyperspectral Image Super-Resolution via Smoothed Particle Hydrodynamics Modeling](https://ieeexplore.ieee.org/abstract/document/10302422)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *IEEE Transactions on Cybernetics (TCYB), 2023*
 
-- [Collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos](https://dl.acm.org/doi/abs/10.5555/3491440.3491508)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Mingjin Zhang, Jiamin Xu, Jing Zhang, **Haimei Zhao**, Wenteng Shang, Xinbo Gao. *International Conference on International Joint Conferences on Artificial Intelligence (IJCAI), 2020*
+- [Collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos](https://dl.acm.org/doi/abs/10.5555/3491440.3491508)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, **Haimei Zhao**, Wei Bian, Bo Yuan, Dacheng Tao. *International Conference on International Joint Conferences on Artificial Intelligence (IJCAI), 2020*
 
 
 

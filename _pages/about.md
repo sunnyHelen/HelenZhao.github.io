@@ -156,7 +156,7 @@ Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
 </div>
 
 
-- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao**, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
+- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao***, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
 - [Deep corner](https://link.springer.com/article/10.1007/s11263-023-01837-3)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Shanshan Zhao, Mingming Gong,**Haimei Zhao**, Jing Zhang, Dacheng Tao. *International Journal of Computer Vision (IJCV), 2023*
 
@@ -200,7 +200,7 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, ...
 
 [Dual Mapping of 2D StyleGAN for 3D-Aware Image Generation and Manipulation](https://ojs.aaai.org/index.php/AAAI/article/view/30428) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
 
-Zhuo Chen, **Haimei Zhao***, Chaoyue Wang, Bo Yuan, Xiu Li
+Zhuo Chen, **Haimei Zhao**, Chaoyue Wang, Bo Yuan, Xiu Li
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 

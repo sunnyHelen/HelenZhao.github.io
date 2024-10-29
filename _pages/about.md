@@ -80,7 +80,7 @@ My research interests lie in artificial intelligence, computer vision, autonomou
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/mainfigure_AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simdistill: Simulated multi-modal distillation for bev 3d object detection](https://ojs.aaai.org/index.php/AAAI/article/view/28577) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>

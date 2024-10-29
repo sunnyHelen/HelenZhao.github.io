@@ -92,7 +92,7 @@ I am passionate about advancing multidisciplinary research powered by AI and alw
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
-<--[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
+<!-- [[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
 -->
 
 </div>

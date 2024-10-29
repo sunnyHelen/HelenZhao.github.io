@@ -22,6 +22,9 @@ I obtained my PhD degree from the School of Computer Science, USYD, supervised b
 
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
+I am passionate about advancing multidisciplinary research powered by AI and always open to collaboration, lecturing, and building meaningful connections. Please feel free to reach out!
+
+
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
 

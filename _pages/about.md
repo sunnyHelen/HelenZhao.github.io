@@ -52,6 +52,7 @@ I am passionate about advancing multidisciplinary research powered by AI and am 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.12*: One paper accepted by Applied Intelligence.
 - *2024.09*: One paper accepted by NeurIPs 2024.
 - *2024.07*: One paper accepted by ECCV 2024.
 - *2024.02*: One paper accepted by CVPR 2024. 

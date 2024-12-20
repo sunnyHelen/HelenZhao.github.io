@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral research fellow in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
-I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) 2021-2024. I obtained my Master's degree from Tsinghua University, 2017-2020.
+I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) 2021-2024. I obtained my Master's degree from Tsinghua University, supervised by A/Prof [Bo Yuan](http://www.global-optimization.com/boyuan/) and worked closely with Prof [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), 2017-2020.
 
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
-I am passionate about advancing multidisciplinary research powered by AI and always open to collaboration, lecturing, and building meaningful connections. Please feel free to reach out!
+I am passionate about advancing multidisciplinary research powered by AI and am always open to collaboration, lecturing, and building meaningful connections. Please feel free to reach out!
 
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
@@ -126,6 +126,19 @@ I am passionate about advancing multidisciplinary research powered by AI and alw
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/figure2_ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[MapDistill: Boosting Efficient HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
+
+*European Conference on Computer Vision (ECCV), 2024*
+
+
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -141,22 +154,11 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, ... , Lingdong Kong, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/figure2_ECCV2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation](https://arxiv.org/abs/2407.11682) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-Xiaoshuai Hao, Ruikai Li, ... , **Haimei Zhao**#, Jing Zhang#
-
-*European Conference on Computer Vision (ECCV), 2024*
 
 
 
-</div>
-</div>
 
-
-- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen, **Haimei Zhao***, Bo Yuan, Xiu Li. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
+- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen*, **Haimei Zhao***, Bo Yuan, Xiu Li. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
 - [Deep corner](https://link.springer.com/article/10.1007/s11263-023-01837-3)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Shanshan Zhao, Mingming Gong,**Haimei Zhao**, Jing Zhang, Dacheng Tao. *International Journal of Computer Vision (IJCV), 2023*
 

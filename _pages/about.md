@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral research fellow in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
-I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) 2021-2024. I obtained my Master's degree from Tsinghua University, supervised by A/Prof [Bo Yuan](http://www.global-optimization.com/boyuan/) and worked closely with Prof [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), 2017-2020.
+I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) and Dr [Jing Zhang](https://scholar.google.com.hk/citations?user=9jH5v74AAAAJ), 2021-2024. I obtained my Master's degree from Tsinghua University, supervised by A/Prof [Bo Yuan](http://www.global-optimization.com/boyuan/) and worked closely with Prof [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), 2017-2020.
 
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
 
@@ -158,7 +158,7 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, ... , Lingdong Kong, 
 
 
 
-- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen*, **Haimei Zhao***, Bo Yuan, Xiu Li. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*
+- [STViT: Improving Self-Supervised Multi-Camera Depth Estimation with Spatial-Temporal Context and Adversarial Geometry Regularization](https://ojs.aaai.org/index.php/AAAI/article/view/30429)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zhuo Chen*, **Haimei Zhao***, Bo Yuan, Xiu Li. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024
 
 - [Deep corner](https://link.springer.com/article/10.1007/s11263-023-01837-3)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Shanshan Zhao, Mingming Gong,**Haimei Zhao**, Jing Zhang, Dacheng Tao. *International Journal of Computer Vision (IJCV), 2023*
 

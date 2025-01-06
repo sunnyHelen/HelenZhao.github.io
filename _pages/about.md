@@ -253,7 +253,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 # 🌟 Awards and Grants
 
-- *2024 - 2025*, The University of Sydney – PERIscope Commercialisation Award (AI Lead), $615,000.
+- *2024 - 2025*, The University of Sydney – PERIscope Commercialisation Award (AI Lead), $61,500.
 
 - *2024*, The University of Sydney Nano Institute – NanoPitch Health People’s Choice Award (AI Lead), $5,000.
 

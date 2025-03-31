@@ -241,8 +241,8 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 # 🌟 Patent
 - Method and system for determining and indication of blood coagulability, Allan Sun, Arnold Lining Ju, Arian Nasser, **Haimei Zhao**. *Australia Filed Patent Appl. No: 2024902177, TRL: 5*
-<!--
-- Ultrafast Automatic Fabrication Process for Versatile 3D Microchannel Fabrications. Arnold Lining Ju, Charles Yunduo Zhao, Zihao Wang, Haimei Zhao, Nicole Alex Yap.-->
+
+- Ultrafast Automatic Fabrication Process for Versatile 3D Microchannel Fabrications. Arnold Lining Ju, Charles Yunduo Zhao, Zihao Wang, **Haimei Zhao**, Nicole Alex Yap.
 
 
 

@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral research fellow in A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
+
+I am a postdoctoral research fellow in Snow Fellow A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
 I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) and Dr [Jing Zhang](https://scholar.google.com.hk/citations?user=9jH5v74AAAAJ), 2021-2024. I obtained my Master's degree from Tsinghua University, supervised by A/Prof [Bo Yuan](http://www.global-optimization.com/boyuan/) and worked closely with Prof [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), 2017-2020.
 
-My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical engineering, and digital healthcare.
+My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical science and engineering, and digital healthcare.
 
 I am passionate about advancing multidisciplinary research powered by AI and am always open to collaboration, lecturing, and building meaningful connections. Please feel free to reach out!
 
@@ -52,6 +53,8 @@ I am passionate about advancing multidisciplinary research powered by AI and am 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.03*: One paper accepted by ICME 2025.
+- *2025.03*: One paper accepted by ACS Sensors.
 - *2024.12*: One paper accepted by Applied Intelligence.
 - *2024.09*: One paper accepted by NeurIPs 2024.
 - *2024.07*: One paper accepted by ECCV 2024.
@@ -66,7 +69,7 @@ I am passionate about advancing multidisciplinary research powered by AI and am 
 
 <br>
 
-# 📝 Robust and Efficient AI for Robotics and Autonomous Driving, Computer Vision
+# 📝 Robust and Efficient AI for Autonomous Driving Sensing and Perception, Computer Vision
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_mainfigure.png' alt="sym" width="100%"></div></div>
@@ -174,7 +177,7 @@ Xiaoshuai Hao, Mengchuan Wei, Yifan Yang, **Haimei Zhao**, ... , Lingdong Kong, 
 <br>
 
 
-# 📝 AI for Biomedical Science, Digital Health 
+# 📝 AI for Biomedical Science and Engineering, Digital Health 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Med-X 2024</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
@@ -190,6 +193,7 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, ...
 
 </div>
 </div>
+
 
 <br>
 
@@ -230,11 +234,15 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 
 
-# 🌟 Competition and Patent
+# 🌟 Competition
 
 
 - [The robodrive challenge: Drive anytime anywhere in any condition](https://arxiv.org/abs/2405.08816)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, The Third Place. *IEEE Conference on Robotics and Automation (ICRA 2024)*.
+
+# 🌟 Patent
 - Method and system for determining and indication of blood coagulability, Allan Sun, Arnold Lining Ju, Arian Nasser, **Haimei Zhao**. *Australia Filed Patent Appl. No: 2024902177, TRL: 5*
+<!--
+- Ultrafast Automatic Fabrication Process for Versatile 3D Microchannel Fabrications. Arnold Lining Ju, Charles Yunduo Zhao, Zihao Wang, Haimei Zhao, Nicole Alex Yap.-->
 
 
 
@@ -292,10 +300,11 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 # ♥️ Services and Engagement
 
+- *2025-*, ICT Director of School of Biomedical Engineering, USYD
 - *2024*, Diversity, Equity, and Inclusion (DEI) Committee, Ju Lab, School of Biomedical Engineering, USYD
 - *2022-2023*, Higher Degree Research (HDR) Student Committee, School of Computer Science, USYD
-- Program Committee Member of CVPR, ECCV, ACM MM, ICPR
-- Reviewer of IEEE Transactions on Multimedia (TMM), IEEE Signal Processing Letters
+- Program Committee Member of CVPR, ECCV, ACM MM, ECAI, ICPR
+- Invited Reviewer of TIP, TMM, KBS, IEEE Signal Processing Letters
 
 # -
 

@@ -261,6 +261,8 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 # 🌟 Awards and Grants
 
+- *2025 - 2026*, The University of Sydney DVCR Proof-of-Concept (POC) Fund – STEM stream (CIA). “SmartClot-AI: Next-Generation Intelligent Point-of-Care Coagulation Testing and Decision Support System”, A$80,000.
+
 - *2024 - 2025*, The University of Sydney – PERIscope Commercialisation Award (AI Lead), $61,500.
 
 - *2024*, The University of Sydney Nano Institute – NanoPitch Health People’s Choice Award (AI Lead), $5,000.

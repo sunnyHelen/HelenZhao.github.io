@@ -53,7 +53,7 @@ I am passionate about advancing multidisciplinary research powered by AI and am 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2025.06*: Our project "SmartClot-AI: Next-Generation Intelligent Point-of-Care Coagulation Testing and Decision Support System" has been awarded the 2025–2026 DVCR Proof-of-Concept (POC) Fund – STEM stream by The University of Sydney, with funding support of A$80,000!
+- *2025.06*: 🎉 Excited to share that our project "SmartClot-AI: Next-Generation Intelligent Point-of-Care Coagulation Testing and Decision Support System" has been awarded the 2025–2026 DVCR Proof-of-Concept (POC) Fund – STEM stream by The University of Sydney, with funding support of A$80,000! Even more exciting — this is my first funding as Chief Investigator (CIA)! 🎉🎉
 - *2025.03*: One paper accepted by ICME 2025.
 - *2025.03*: One paper accepted by ACS Sensors.
 - *2024.12*: One paper accepted by Applied Intelligence.

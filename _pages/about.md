@@ -53,6 +53,7 @@ I am passionate about advancing multidisciplinary research powered by AI and am 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.03*: One paper got accepted by Advanced Materials 2025 (IF: 26.8)! Congratulations to Charles!
 - *2025.06*: 🎉 Excited to share that our project **"SmartClot-AI: Next-Generation Intelligent Point-of-Care Coagulation Testing and Decision Support System"** has been awarded the **2025–2026 DVCR Proof-of-Concept (POC) Fund – STEM stream** by The University of Sydney, with funding support of **A$80,000**! Even more exciting — this is my first funding as Chief Investigator (**CIA**)! 🎉🎉
 - *2025.03*: One paper accepted by ICME 2025.
 - *2025.03*: One paper accepted by ACS Sensors.
@@ -195,6 +196,19 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, ...
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2025</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sensing the Future of Thrombosis Management: Integrating Vessel-on-a-Chip Models, Advanced Biosensors, and AI-Driven Digital Twins]([https://link.springer.com/article/10.1007/s44258-024-00025-3](https://pubs.acs.org/doi/full/10.1021/acssensors.4c02764))
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Yunduo Charles Zhao, Zihao Wang, **Haimei Zhao**, ... , Lining Arnold Ju
+
+*ACS Sensors, 2025*
+
+</div>
+</div>
 
 <br>
 

@@ -196,7 +196,7 @@ Allan Sun, Arian Nasser, Chaohao Chen, Yunduo Charles Zhao, **Haimei Zhao**, ...
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2025</div><img src='images/MedX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2025</div><img src='images/acs-sensors.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sensing the Future of Thrombosis Management: Integrating Vessel-on-a-Chip Models, Advanced Biosensors, and AI-Driven Digital Twins]([https://link.springer.com/article/10.1007/s44258-024-00025-3](https://pubs.acs.org/doi/full/10.1021/acssensors.4c02764))

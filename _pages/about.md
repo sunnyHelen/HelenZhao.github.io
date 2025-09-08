@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a postdoctoral research fellow in Snow Fellow A/Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney.
+I am a postdoctoral research fellow in Snow Fellow Prof [Arnold Lining Ju](https://prerender.sydney.edu.au/https://www.sydney.edu.au/engineering/about/our-people/academic-staff/arnold-ju.html)'s group at the School of Biomedical Engineering, Faculty of Engineering, The University of Sydney. I also work as the ICT director/coordinator for the School of Biomedical Engineering to foster my leadership and strengthen my engagement.
+
 I obtained my PhD degree from the School of Computer Science, USYD, supervised by Prof [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ) and Dr [Jing Zhang](https://scholar.google.com.hk/citations?user=9jH5v74AAAAJ), 2021-2024. I obtained my Master's degree from Tsinghua University, supervised by A/Prof [Bo Yuan](http://www.global-optimization.com/boyuan/) and worked closely with Prof [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), 2017-2020.
 
 My research interests lie in artificial intelligence, computer vision, autonomous driving, AI for biomedical science and engineering, and digital healthcare.

@@ -322,12 +322,12 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 - *2024*, Diversity, Equity, and Inclusion (DEI) Committee, Ju Lab, School of Biomedical Engineering, USYD
 - *2022-2023*, Higher Degree Research (HDR) Student Committee, School of Computer Science, USYD
 - Program Committee Member of CVPR, ECCV, ACM MM, ECAI, ICPR
-- Invited Reviewer of TIP, TMM, KBS, IEEE Signal Processing Letters
+- Invited Reviewer of Nature Scientific Reports, IEEE TPAMI, IEEE TIP, IEEE TMM, KBS, IEEE Signal Processing Letters
 
 # -
 
 **Contact:** h.zhao at sydney.edu.au
 
-**Last Update:** Oct 28, 2024
+**Last Update:** Oct, 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>

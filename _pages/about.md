@@ -321,7 +321,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 - *2025-*, ICT Director of School of Biomedical Engineering, USYD
 - *2024*, Diversity, Equity, and Inclusion (DEI) Committee, Ju Lab, School of Biomedical Engineering, USYD
 - *2022-2023*, Higher Degree Research (HDR) Student Committee, School of Computer Science, USYD
-- Program Committee Member of CVPR, ECCV, ACM MM, ECAI, ICPR
+- Program Committee Member of CVPR, NeurIPS, ECCV, ACM MM, ECAI, ICPR
 - Invited Reviewer of Nature Scientific Reports, IEEE TPAMI, IEEE TIP, IEEE TMM, KBS, IEEE Signal Processing Letters
 
 # -

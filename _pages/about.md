@@ -277,6 +277,7 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 
 # 🌟 Awards and Grants
+- *2026 - 2029*, ARC Discovery Project (CIB). “SLabel-free, Highly Sensitive and Intelligent Wearable Biosensors”, A$918,789.
 
 - *2025 - 2026*, The University of Sydney DVCR Proof-of-Concept (POC) Fund – STEM stream (CIA). “SmartClot-AI: Next-Generation Intelligent Point-of-Care Coagulation Testing and Decision Support System”, A$80,000.
 

@@ -319,12 +319,23 @@ Zhuo Chen, Chaoyue Wang, **Haimei Zhao**, Bo Yuan, Xiu Li
 
 <span class='anchor' id='services'></span>
 
+# 🌟 Teaching Experience
+- Guest Lecturer			ELEC5307: Advanced Signal Processing with Deep Learning (School of ECE, USYD)		S2 2025
+- Guest Lecturer			BMET2901 Anatomy and Physiology for Engineers (School of BME, USYD)				S2 2025
+- Guest Lecturer			BMET5964: Advanced Cellular Biomechanics (School of BME, USYD)					S2 2025
+- Tutor			COMP5328: Advanced Machine Learning (School of CS, USYD)						S2 2025
+- Tutor			ELEC5307: Advanced Signal Processing with Deep Learning (School of ECE, USYD)		S2 2025
+- Lab Demonstrator		ELEC5307: Advanced Signal Processing with Deep Learning (School of ECE, USYD)		S2 2025
+- Marking 			BMET5964: Advanced Cellular Biomechanics (School of BME, USYD)					S2 2024
+- Teaching Assistant		80240372 Data Mining: Theory and Algorithms (School of TBSI, Tsinghua University)		S2 2018
+
+
 # ♥️ Services and Engagement
 
 - *2025-*, ICT Director of School of Biomedical Engineering, USYD
 - *2024*, Diversity, Equity, and Inclusion (DEI) Committee, Ju Lab, School of Biomedical Engineering, USYD
 - *2022-2023*, Higher Degree Research (HDR) Student Committee, School of Computer Science, USYD
-- Program Committee Member of CVPR, NeurIPS, ECCV, ACM MM, ECAI, ICPR
+- Program Committee Member of CVPR, NeurIPS, AAAI, ECCV, ACM MM, ECAI, ICPR
 - Invited Reviewer of Nature Scientific Reports, IEEE TPAMI, IEEE TIP, IEEE TMM, KBS, IEEE Signal Processing Letters
 
 # -
